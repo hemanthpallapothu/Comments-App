@@ -1,0 +1,174 @@
+.amber {
+  background-color: #f59e0b;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.blue {
+  background-color: #0b69ff;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.orange {
+  background-color: #f97316;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.emerald {
+  background-color: #10b981;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.teal {
+  background-color: #14b8a6;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.red {
+  background-color: #b91c1c;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.li {
+  height: 100px;
+  margin-right: 50px;
+}
+
+.comment-name-logo-alinement {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.comment-name-paragraph {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.comment-name {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: roboto;
+  margin-right: 50px;
+}
+
+.comment {
+  color: #1e293b;
+  font-family: roboto;
+  margin-left: 45px;
+}
+
+.like-btn {
+  height: 25px;
+  width: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 0px;
+  cursor: pointer;
+}
+
+.like-container {
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.like-btn-delete-btn-alinement {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+  width: 25px;
+  margin-right: 35px;
+  cursor: pointer;
+}
